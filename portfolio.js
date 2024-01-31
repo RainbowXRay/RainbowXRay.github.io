@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Passionate learner, Grinding hard for competitive programming and software development. Self-learner and miticulous student aiming to create a Technical impact with smart-work",
   resumeLink:
-    "https://drive.google.com/file/d/1ocGattqkyYsjdgXS95GwRNp62tPwS20C/view?usp=sharing",
+    "https://drive.google.com/file/d/1svweFhGSfrnsQEmNMArGS2QYSDGWcdmS/view?usp=sharing",
   portfolio_repository: "",
   githubProfile: "",
 };
